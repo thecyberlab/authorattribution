@@ -1,0 +1,33 @@
+layout 6
+term_freq_bigrams 1
+term_freq_node 2
+av_depth_leaves 188
+3 gram 203
+     
+                                      layout
+
+D09 Percentage of pure comment lines to lines containing comments
+D03 percentage of open curly brackets at the end of line
+D15 Percentage of pure comment lines to nonblank lines
+D10 percentage of // style comments to // and /* style comments
+D16 Percentage of inline comments lines to code lines
+D01 percentage of open curly brackets alone a line
+
+
+                                     term_freq_bigrams
+CompilationUnit::LineComment
+
+                               term_freq_node
+Block Comment
+Javadoc Comment
+
+                                    av_depth_leaves
+
+['License', 'under', 'This', 'ANY', 'Public', 'distributed', 'Software', 'Copyright', 'com', 'FOR', 'without', 'See', 'it', 'GNU', 'General', 'You', 'Free', 'copy', 'the', '/*', 'by', 'you', 'terms', 'is', '*', 'in', 'WITHOUT', 'either', 'org', 'or', '*/', 'modify', 'version', 'License,', 'MERCHANTABILITY', 'and/or', 'file', 'of', 'received', 'any', '@author', 'that', 'warranty', 'redistribute', 'with', 'for', 'FITNESS', 'PARTICULAR', '/**', 'hope', 'implied', 'PURPOSE.', 'not,', 'useful,', 'WARRANTY;', 'even', 'details.', 'along', 'free', 'published', 'program', 'OF', 'OR', 'more', 'and', 'but', 'later', 'version.', 'A', 'will', 'have', 'software', 'Foundation,', 'should', 'can', '(C)', 'your', 'write', 'be', 'as', '-', '(at', 'option)', 'Lesser', 'de', 'software;', 'WARRANTIES', 'may', 'Foundation;', 'Inc.,', 'MA', '(c)', 'if', 'License.', 'net', 'Boston,', 'at', 'IS"', '"AS', 'rights', 'use', 'USA', 'on', 'If', 'part', 'specific', 'see', 'All', 'library', 'reserved.', 'which', 'library;', '2.0', 'Apache', '02110-1301', 'Franklin', '51', 'Floor,', 'Fifth', 'except', 'law', 'CONDITIONS', 'writing,', 'Unless', 'agreed', 'permissions', 'BASIS,', 'Licensed', 'applicable', 'express', 'implied.', 'governing', 'KIND,', 'compliance', 'limitations', 'language', 'obtain', 'required', '2.1', 'software:', 'THE', 'Street,', 'http://www.apache.org/licenses/LICENSE-2.0', 'Version', '"License");', '(the', '2010', 'copyright', 'DAMAGES', 'materials', '<http://www.gnu.org/licenses/>.', 'AND', 'SOFTWARE', 'IMPLIED', 'IN', 'program.', 'API', '2009', 'edu', 'David', 'NO', 'USE', 'BE', 'DIRECT,', 'LIABLE', 'OUT', 'SHALL', 'EVENT', 'INDIRECT,', 'ARISING', 'CONSEQUENTIAL', 'THIS', 'SPECIAL,', 'IS', 'made', 'PROVIDED', 'WHETHER', 'NEGLIGENCE', 'CONTRACT,', 'LOSS', 'USE,', 'use,', 'distribute', 'v1.0', 'accompanying', 'accompanies', 'distribution,', 'Christian']
+
+                                        term freq 3gram
+
+['ice', 'nse', 'cen', 'ens', 'Lic', 'opy', 'om.', '* C', 'ftw', '   ', 'ee ', '/* ', ' * ', 'is ', 'twa', 'he ', 'the', 'kag', 'ANT', 'NU ', 'e G', 'e c', 'Pub', ' Ge', 'hou', 'pac', '. *', 'rig', 'e F', ' GN', 'ibu', ' la', 'of ', 'ree', 'GNU', ' of', 'y o', 'e t', 'ou ', 're ', 'l P', 'wit', ' wi', 'Gen', ' Pu', 'ogr', 'htt', 'yri', 'r v', 'you', 'und', ' AN', ' So', 'ht ', 'Cop', 'ght', 'f t', 'OR ', ' 20', '/ww', ' Fr', 'p:/', 'OUT', 'ITH', 'ARR', 'Sof', 's o', 'WAR', '***', 'rog', '* L', 'ral', 'cka', 'ied', 'SS ', 'sof', ' yo', 'eit', '/pa', 's d', '200', 'Fou', 'FOR', ' ve', 'se,', 'LIT', 'PAR', 'Y W', 'lie', 'See', 'Y; ', 'nty', ' Yo', 't W', 'S O', ') 2', 'wri', 'ABI', 'ece', ' bu', 'gen', 'U G', 'BIL', 'NTA', ' Pr', 'CON', 'ITY', 'NY ', 'r G', 'RAN', 'cop', ' WA', 'CHA', ' FI', 'TNE', 'det', 'E. ', 'MER', 'hop', 'You', 'ES ', ' FO', 'R A', ' OF', 'ms ', 'www', ', *', 'RRA', 'POS', 'py ', 'ANY', 'R P', 'ich', 'rar', 'ESS', 'ful', 'NTI', '/li', 'nd/', 'OSE', 'URP', 'nc.', 'rg/', 's l', 'ULA', 'lib', ' (C', ' PA', 'TIC', 'u s', 'AR ', 'PUR', 'CUL', 'ER ', '021', 'RTI', 'y i', 'hav', 'ot,', 'bro', ' ME', 'RCH', 'mor', ' CO', 'ITN', ' OR', 'w.a', 't *', '* l', 'alo', ' WI', '2.0', 'es/', 'U L', 'r F', '-20', 'n 2', 'Y o', 'ul,', 'sef', ' TH', 'Fra', 'amm', 'Uni', '(c)', 'TIE', 'Bos', 'USA', ', M', 'ibr', 'aph', 'OF ', '.ar', '130', 'A  ', 'bta', 'sr.', 'du.', ' 3 ', 'CEN', 'S I', ' LL', 'ski']
+
+
+

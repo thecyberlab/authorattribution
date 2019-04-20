@@ -1,0 +1,33 @@
+layout 2
+term_freq_bigrams 3
+av_node_depth 3
+term_freq_node 2
+av_depth_leaves 311
+term_freq_3gram 189
+
+		layout
+
+D01 percentage of open curly brackets alone a line
+D03 percentage of open curly brackets at the end of line
+
+		term_freq_bigrams
+NormalAnnotationExpr::Name
+MemberValuePair::SimpleName
+NormalAnnotationExpr::MemberValuePair
+
+		av_node_depth
+Name 
+Member Value Pair 
+Normal Annotation Expression 
+
+		term_freq_node
+Null Literal Expression
+Member Value Pair
+
+		av_depth_leaves
+
+['under', 'License', 'Public', 'distributed', 'Software', 'ANY', 'you', 'OF', 'General', 'Copyright', 'You', 'GNU', 'See', 'FOR', 'terms', 'OR', 'Free', 'your', '(C)', 'Version', 'WITHOUT', 'either', 'program', 'license', 'License.', 'software', 'copyright', 'free', 'modify', 'License,', 'software;', 'warranty', 'version.', 'Foundation,', '(the', 'MERCHANTABILITY', 'rights', 'FITNESS', 'PARTICULAR', 'and/or', 'IS"', '"AS', 'published', '2.0', 'redistribute', 'Apache', 'Inc.,', 'THE', 'useful,', 'WARRANTY;', 'implied', 'details.', '(c)', 'hope', 'Logger', 'option)', '(at', 'PURPOSE.', 'language', 'compliance', '"License");', 'later', 'WARRANTIES', 'implied.', 'express', 'KIND,', 'governing', 'Foundation;', 'All', 'Inc.', '$', 'limitations', 'not,', 'copy', 'along', 'obtain', 'com', 'specific', 'except', 'org', 'received', 'library', 'applicable', 'reserved.', 'Boston,', 'MA', 'AND', 'Rights', 'required', 'Original', 'Unless', 'IN', 'Licensed', '51', 'agreed', 'writing,', 'CONDITIONS', 'law', 'BASIS,', 'http://www.apache.org/licenses/LICENSE-2.0', 'permissions', 'USA.', 'Reserved.', 'Source', 'conditions', 'derived', '@version', 'COPYRIGHT', 'THIS', 'notice', 'Foundation', 'materials', 'GPL', '59', 'work', 'LIMITED', 'IS', 'contributors', 'Portions', 'Code', 'Open', 'WARRANTY', 'BE', 'ownership.', 'regarding', 'Initial', 'Floor,', 'Franklin', 'above', 'Fifth', 'DAMAGES', 'agreements.', 'contributor', '(ASF)', 'licenses', 'ASF', 'NOTICE', 'BY', 'Lesser', 'SOFTWARE', 'LIABLE', 'subject', 'USE', 'TO,', 'BUT', 'Redistributions', 'additional', 'Library', 'Sun', 'Contributor(s):', 'NO', 'LIABILITY,', 'prior', 'retain', 'permitted', 'Temple', 'Suite', 'endorse', 'SPECIAL,', 'DISCLAIMED.', 'PROVIDED', 'products', 'ARE', 'WARRANTIES,', 'ARISING', 'EVENT', 'PURPOSE', 'IMPLIED', 'SHALL', 'University', 'OUT', 'Developer', '$Id:', 'EXPRESS', 'notice,', 'BUSINESS', 'USE,', 'HOLDERS', 'WHETHER', 'CONTRACT,', 'INCLUDING,', 'LOSS', 'CONSEQUENTIAL', 'NEGLIGENCE', 'nor', 'wish', 'distribution.', 'promote', 'program;', 'END', 'Microsystems,', 'documentation', 'library;', 'Eclipse', 'ON', 'license.', 'Redistribution', '02110-1301', 'basis,', 'POSSIBILITY', 'INDIRECT,', 'ADVISED', 'EVEN', 'SOFTWARE,', 'DATA,', 'CAUSED', 'HOWEVER', 'SUCH', 'THEORY', 'DIRECT,', 'IF', '$Revision:', 'INCIDENTAL,', 'CONTRIBUTORS', 'PROFITS;', 'TORT', 'reproduce', 'OTHERWISE)', 'SERVICES;', 'SUBSTITUTE', 'PROCUREMENT', 'EXEMPLARY,', 'DAMAGE.', 'INTERRUPTION)', 'GOODS', '(INCLUDING', '(INCLUDING,', 'STRICT', 'met:', 'WAY', 'disclaimer', 'modification,', '1.1', 'LICENSE', 'http://www.mozilla.org/MPL/', 'Mozilla', 'accompanying', 'accompanies', '2.1', '330,', 'API', 'Project', 'v1.0', 'distribution,', 'decision', 'Neither', 'forms,', 'permission.', 'disclaimer.', 'commercial', 'http://www.eclipse.org/legal/epl-v10.html', 'Contributors:', 'Group', 'GPL.', 'BEGIN', '2000,', 'download', 'Alternatively,', 'net', 'recipient', 'above.', 'distribution', 'others', 'MPL,', 'MPL', 'provisions', 'above,', 'deleting', 'permission', 'Bruno', '2001,', 'St,', '02111-1307,', 'Version:', 'Place', 'USA,', 'others.', 'Street,', 'Paulo', 'Cambridge,', 'Mass', 'Ave,', '02139,', '675', '<http://www.gnu.org/licenses/>.', 'Corporation', 'USA', '//$NON-NLS-1$', 'contact', 'BLOCK', 'Corporation.', 'software:', '2001', '$Date:', 'de', 'distribute', 'Administrator', 'Authors:', 'weka', 'United', 'States', 'Place,', 'replacing', '2005,', '1.1/GPL', '*****', '"GPL"),', 'OWNER', 'Professional', 'JBoss,', 'Home']
+
+		term_freq_leaves
+
+['Lic', 'ftw', '   ', '***', ' AN', ';  ', 'NU ', ' OR', ' GN', 'OF ', 'GNU', 'NY ', ') {', '  }', '{\t\t', '{  ', '}  ', ' } ', '\t}\t', '  {', 'S O', ';\t\t', '\t\t}', '\t\ti', ');\t', '\t\t\t', '\tre', '\tpu', '\tif', '}\t\t', '\t\tr', ' { ', '  r', '); ', '  p', '/  ', '  /', 'Pub', ' TH', ' {\t', ';\t}', ')\t\t', '  i', 'ibr', 'e G', ' Pu', 'ILI', 'rms', 'e;\t', 'BIL', '\t\tf', '\t\tc', 'ABI', '\t\tt', 'pyr', 'U L', '\tpr', ') 2', '\tin', ' LI', 'u m', 'apa', 'nd/', '\t\ts', '}\tp', 'rsh', ': *', '-20', 'ww.', '; y', 'U G', '//w', 'IS ', 'g/l', 'SS ', '\t\tS', 'R P', 'Y O', '\t *', 'ICE', 'S I', ' PU', '}\t}', 'u s', 'F T', 'HE ', 'Apa', 'S F', 'FIT', 'LIA', 'S" ', 'TNE', 'RPO', 'R A', 'ICU', 'SOF', 'nc.', 'URP', 'A P', 'Y W', 'TWA', 'nty', '(C)', 'Lib', 'UTO', 'AMA', ' (_', '\t{\t', 'MA ', '-2.', 'ip.', 'PL ', 'NTY', 'E C', 'geo', 's/L', ' KI', 'gov', '2 o', 'T O', '021', 'R I', '.ec', 'ips', 'ND,', '\t\t.', 'bta', 'T W', 'scl', '= _', 'sf.', 'c.,', 'D T', 'F A', 'OPY', ' DA', 'lop', 'rvl', 'D A', 'UDI', 'A. ', 'ITN', ' 02', ')\t{', 'CUL', 'y G', 'OFT', '//$', 'IS,', 'ASF', 'IS"', 'mbr', 'HIS', 'zil', 'law', 'aim', 'SF)', 'w.e', ' m_', 'N A', 'Nei', 'Geo', 'g.o', 'ozi', 'gnu', 'L D', 'asp', '(m_', 'Y T', 'u u', 'GPL', 'UEN', 'SEQ', 'DAM', '98-', 'BY ', 'la.', 'ON-', ' GO', 'R T', 'jbo', '.sf', 'jos', 'doo', 'ka.', 'jas', '.jb', 'eka', 'wek']
